@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_comments"
+        android:icon="@drawable/baseline_comment_24"
+        android:title="Comments" />
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/baseline_email_24"
+        android:title="Contact" />
+</menu>
