@@ -1,4 +1,4 @@
-package com.example.nazrulgeeti_new;
+package com.sleepingcat.nazrulgeeti_new;
 
 //package com.example.nazrulgeetiapp;
 

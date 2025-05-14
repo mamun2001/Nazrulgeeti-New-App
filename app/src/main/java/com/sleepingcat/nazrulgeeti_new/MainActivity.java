@@ -1,9 +1,9 @@
-package com.example.nazrulgeeti_new;
+package com.sleepingcat.nazrulgeeti_new;
 
 //package com.example.nazrulgeetiapp;
 
 import android.os.Bundle;
-import androidx.annotation.NonNull;
+
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;

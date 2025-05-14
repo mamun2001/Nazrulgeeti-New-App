@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace 'com.example.nazrulgeeti_new'
+    namespace 'com.sleepingcat.nazrulgeeti_new'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.nazrulgeeti_new"
+        applicationId "com.sleepingcat.nazrulgeeti_new"
         minSdk 24
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "3.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
