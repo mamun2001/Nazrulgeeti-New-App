@@ -15,6 +15,8 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
+import com.sleepingcat.nazrulgeeti_new.R;
+
 public class HomeFragment extends Fragment {
 
     protected WebView webView;

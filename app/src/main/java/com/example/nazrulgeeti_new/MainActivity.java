@@ -14,6 +14,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.util.Log;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.sleepingcat.nazrulgeeti_new.R;
 
 public class MainActivity extends AppCompatActivity {
 
