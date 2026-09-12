@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.sleepingcat.nazrulgeeti_new'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.sleepingcat.nazrulgeeti_new"
@@ -35,10 +35,10 @@ android {
 
 dependencies {
 
-    implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.google.android.material:material:1.11.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.8.0'
+    implementation 'com.google.android.material:material:1.14.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.2'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.2.0'
 
     implementation libs.appcompat
     implementation libs.material
@@ -51,6 +51,6 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
 
-    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.7.0'
 }
