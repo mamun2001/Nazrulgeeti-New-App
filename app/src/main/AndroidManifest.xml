@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Nazrulgeeti_New">
 
         <activity
-            android:name=".SplashActivity"
+            android:name="com.sleepingcat.nazrulgeeti_new.SplashActivity"
             android:theme="@style/Theme.NazrulGeeti.Splash"
             android:exported="true">
             <intent-filter>
@@ -24,7 +24,7 @@
         </activity>
 
         <activity
-            android:name=".MainActivity" />
+            android:name="com.sleepingcat.nazrulgeeti_new.MainActivity" />
     </application>
 
 </manifest>
